@@ -40,7 +40,6 @@ function runJq(base, extension) {
   });
 }
 
-// Main process
 const base = readJsonFile('base.json');
 const extension = readJsonFile('extension.json');
 
