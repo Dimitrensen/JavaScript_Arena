@@ -1,0 +1,13 @@
+{
+    "store":"234455",
+    "data":{
+      "point":"{{a}}"
+    },
+    "price":"{{d}}",
+    "location":{
+      "toc":"{{b.c}}"
+    },
+    "target":{
+      "f":"{{b}}"
+    }
+  }
